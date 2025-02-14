@@ -1,4 +1,4 @@
-# Customer Churn Analysis Documentation
+# Customer Churn Analysis 
 
 ## 1. Introduction
 The goal of this analysis is to understand the factors contributing to customer churn and provide actionable recommendations to reduce churn rates. The dataset contains **7,043 entries** and **21 columns**, including customer demographics, service details, and churn status.
